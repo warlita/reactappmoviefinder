@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactappmoviefinder/static/css/main.f855e6bc.css",
-    "main.js": "/reactappmoviefinder/static/js/main.27e183ad.js",
+    "main.js": "/reactappmoviefinder/static/js/main.3243d49c.js",
     "static/js/453.8168c85b.chunk.js": "/reactappmoviefinder/static/js/453.8168c85b.chunk.js",
     "index.html": "/reactappmoviefinder/index.html",
     "main.f855e6bc.css.map": "/reactappmoviefinder/static/css/main.f855e6bc.css.map",
-    "main.27e183ad.js.map": "/reactappmoviefinder/static/js/main.27e183ad.js.map",
+    "main.3243d49c.js.map": "/reactappmoviefinder/static/js/main.3243d49c.js.map",
     "453.8168c85b.chunk.js.map": "/reactappmoviefinder/static/js/453.8168c85b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.27e183ad.js"
+    "static/js/main.3243d49c.js"
   ]
 }
