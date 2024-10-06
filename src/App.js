@@ -11,12 +11,12 @@ const NotFound = () => {
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/reactappmoviefinder">
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <Link className="navbar-brand" to="/">Movie Finder</Link>
       </nav>
       <Switch>
-        <Route exact path="/" component={Home} />
+        <Route path="/" exact component={Home} />
         <Route path="/movie/:id" component={Movie} />
         <Route component={NotFound} />
       </Switch>
